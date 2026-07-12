@@ -1,7 +1,3 @@
-<div align="center">
-  <!-- Pro-tip: Design a clean, minimalist 1500x500 banner in Figma or Affinity Photo 2 and drop the image link here -->
-  <img src="https://via.placeholder.com/800x200?text=Your+Custom+Banner+Here" alt="Maxwell Banner" />
-</div>
 
 # hi, i'm maxwell ⚡️
 
