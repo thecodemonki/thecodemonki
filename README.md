@@ -1,7 +1,7 @@
 
-# hi, i'm maxwell 
+# Hi, i'm maxwell !
 
-> **i LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
+> **I LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
 
 I am a Computer Science student and software engineer who loves the entire lifecycle of a product. 
 
