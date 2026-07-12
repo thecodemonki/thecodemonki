@@ -3,24 +3,15 @@
 
 > **i LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
 
-I am a Computer Science student and software engineer who loves the entire lifecycle of a product. Whether I'm architecting a 27-screen onboarding flow or figuring out why a multi-agent system is failing silently, I build with a bias toward action and explicit design.
+I am a Computer Science student and software engineer who loves the entire lifecycle of a product. 
 
-### 🏗️ What I'm Building & Exploring
-*   **Engineering:** Shipping robust full-stack applications with **Next.js**, **TypeScript**, and **Strapi**. 
-*   **Diving Deep:** Obsessing over quantitative finance, high-frequency trading infrastructure, and building limit order books from scratch.
-*   **Tinkering:** Developing everything from zero-to-one AI agent pipelines to native iOS apps like "Mindful Morning" using **SwiftUI**.
 
-### 🛠️ The Toolbox
-*   **Languages:** TypeScript, Python, Swift, Java
-*   **Frontend:** Next.js, React, Tailwind CSS
-*   **Backend & DB:** Strapi, Node.js, REST APIs
-*   **Design & Architecture:** Figma, Affinity Photo 2, System Design
+### Beyond the Terminal
+1.  Play me in racket sports : pickleball, tennis, badminton
+2.  Find me at my residence( im a residence don)
+3.  Bankrupting local pho restaurants
 
-### 🏸 Beyond the Terminal
-When I'm not tracing pipeline bottlenecks or building productivity tools like *Refresh*, I'm usually offline doing one of three things:
-1.  Smashing shuttlecocks on the university varsity badminton team.
-2.  Mentoring students and handling dorm chaos as a Residence Don.
-3.  Coaching junior athletes to translate instinctive skills into teachable mechanics.
+   Take a look at my personal website to learn more! --> maxwellpeng.com
 
 ---
 
