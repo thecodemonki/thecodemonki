@@ -1,7 +1,7 @@
 
-# hi, i'm maxwell ⚡️
+# hi, i'm maxwell 
 
-> **"hi i like build."** — but mostly high-performance systems, AI pipelines, and tools that solve real problems.
+> **i LOVE to build** — anything from high-performance systems, AI pipelines, and tools that solve real problems.
 
 I am a Computer Science student and software engineer who loves the entire lifecycle of a product. Whether I'm architecting a 27-screen onboarding flow or figuring out why a multi-agent system is failing silently, I build with a bias toward action and explicit design.
 
